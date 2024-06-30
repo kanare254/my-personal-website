@@ -109,21 +109,20 @@ body {
   background-color: #fff;
   padding: 0px;
 }
-.services h2 {
+.services h1 {
   font-family: Georgia, serif;
-  font-size: 40px;
+  font-size: 60px;
   text-align: center;
-  padding: 40px;
+  padding: 20px;
 }
 .services-container {
   max-width: 1200px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
-  text-align: center;
 }
 .services-item {
-  flex-basis: calc(25% - 20px);
+  flex-basis: calc(33% - 24px);
   width: 50%;
   text-align: center;
   margin-top: 1px;
